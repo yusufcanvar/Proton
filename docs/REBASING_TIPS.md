@@ -1,5 +1,5 @@
 ---
-Rebasing Proton onto new upstream releases
+Rebasing Proton onto new upstream releases.
 ---
 
 We maintain a lot of patches on top of upstream releases. When cherry-picking
